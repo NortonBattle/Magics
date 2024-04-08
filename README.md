@@ -1,5 +1,7 @@
 # Magics
 
+<img src="https://github.com/NortonBattle/Magics/blob/main/magics.png"/>
+
 ___
 
 ***The most powerful data and build preparation software for additive manufacturing***
@@ -10,3 +12,4 @@ ___
 
 +  *Import files, edit, cut, and label parts, create supports and lattice structures, simulate metal builds, slice models, optimize nest density, and more in one software environment*
 
+<img src="https://github.com/NortonBattle/Magics/blob/main/getstarted.png"/>
